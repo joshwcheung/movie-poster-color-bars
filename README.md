@@ -1,5 +1,5 @@
 # Color Bars
-Color Bars takes the movie posters of [IMDb's top movies](http://www.imdb.com/chart/top) and performs k-means clustering to produce a color quantized version of each poster. Then, these color quantized posters are used to produce a color bar representing the proportion of each color in the poster.
+The scripts used in Color Bars take the movie posters of [IMDb's top movies](http://www.imdb.com/chart/top) and performs k-means clustering to produce a color quantized version of each poster. Then, each color quantized poster is used to produce a color bar representing the proportions of colors in the poster.
 
 <section>
     <img width="70" src="color_bars_8/4_the_dark_knight_bar.png" alt="The Dark Knight" hspace="20">
