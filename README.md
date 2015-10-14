@@ -10,7 +10,7 @@ Color Bars takes the movie posters of [IMDb's top movies](http://www.imdb.com/ch
     <img width="70" src="color_bars_8/198_the_wizard_of_oz_bar.png" alt="The Wizard of Oz" hspace="20">
 </section>
 
-# Usage:
+# Usage
 	$python color_clustering.py --help
 	usage: color_clustering.py [-h] -i IMG -k CLUSTERS
 	
