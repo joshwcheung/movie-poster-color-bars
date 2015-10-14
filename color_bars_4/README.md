@@ -186,10 +186,10 @@
 <img height="300" src="93_snatch_bar.png">
 # 94. Monty Python and the Holy Grail (1975) - 8.3
 <img height="300" src="94_monty_python_and_the_holy_grail_bar.png">
-# 95. The Kid (1921) - 8.4
-<img height="300" src="95_the_kid_bar.png">
-# 96. Andaz Apna Apna (1994) - 8.7
-<img height="300" src="96_andaz_apna_apna_bar.png">
+# 95. Andaz Apna Apna (1994) - 8.7
+<img height="300" src="95_andaz_apna_apna_bar.png">
+# 96. The Kid (1921) - 8.4
+<img height="300" src="96_the_kid_bar.png">
 # 97. For a Few Dollars More (1965) - 8.3
 <img height="300" src="97_for_a_few_dollars_more_bar.png">
 # 98. Rashomon (1950) - 8.3
@@ -248,10 +248,10 @@
 <img height="300" src="124_on_the_waterfront_bar.png">
 # 125. Pan's Labyrinth (2006) - 8.2
 <img height="300" src="125_pans_labyrinth_bar.png">
-# 126. Mr. Smith Goes to Washington (1939) - 8.3
-<img height="300" src="126_mr_smith_goes_to_washington_bar.png">
-# 127. The Martian (2015) - 8.3
-<img height="300" src="127_the_martian_bar.png">
+# 126. The Martian (2015) - 8.3
+<img height="300" src="126_the_martian_bar.png">
+# 127. Mr. Smith Goes to Washington (1939) - 8.3
+<img height="300" src="127_mr_smith_goes_to_washington_bar.png">
 # 128. The Bridge on the River Kwai (1957) - 8.2
 <img height="300" src="128_the_bridge_on_the_river_kwai_bar.png">
 # 129. My Neighbor Totoro (1988) - 8.3
@@ -338,10 +338,10 @@
 <img height="300" src="169_kill_bill_vol_1_bar.png">
 # 170. Hotel Rwanda (2004) - 8.2
 <img height="300" src="170_hotel_rwanda_bar.png">
-# 171. Life of Brian (1979) - 8.1
-<img height="300" src="171_life_of_brian_bar.png">
-# 172. The Wages of Fear (1953) - 8.2
-<img height="300" src="172_the_wages_of_fear_bar.png">
+# 171. The Wages of Fear (1953) - 8.2
+<img height="300" src="171_the_wages_of_fear_bar.png">
+# 172. Life of Brian (1979) - 8.1
+<img height="300" src="172_life_of_brian_bar.png">
 # 173. Platoon (1986) - 8.1
 <img height="300" src="173_platoon_bar.png">
 # 174. Butch Cassidy and the Sundance Kid (1969) - 8.1
@@ -384,10 +384,10 @@
 <img height="300" src="192_nausicaa_of_the_valley_of_the_wind_bar.png">
 # 193. Diabolique (1955) - 8.2
 <img height="300" src="193_diabolique_bar.png">
-# 194. Stalker (1979) - 8.2
-<img height="300" src="194_stalker_bar.png">
-# 195. Sin City (2005) - 8.1
-<img height="300" src="195_sin_city_bar.png">
+# 194. Sin City (2005) - 8.1
+<img height="300" src="194_sin_city_bar.png">
+# 195. Stalker (1979) - 8.2
+<img height="300" src="195_stalker_bar.png">
 # 196. Gandhi (1982) - 8.1
 <img height="300" src="196_gandhi_bar.png">
 # 197. The Best Years of Our Lives (1946) - 8.2
@@ -408,16 +408,16 @@
 <img height="300" src="204_strangers_on_a_train_bar.png">
 # 205. Before Sunrise (1995) - 8.1
 <img height="300" src="205_before_sunrise_bar.png">
-# 206. Twelve Monkeys (1995) - 8.1
-<img height="300" src="206_twelve_monkeys_bar.png">
-# 207. The Avengers (2012) - 8.1
-<img height="300" src="207_the_avengers_bar.png">
+# 206. The Avengers (2012) - 8.1
+<img height="300" src="206_the_avengers_bar.png">
+# 207. Twelve Monkeys (1995) - 8.1
+<img height="300" src="207_twelve_monkeys_bar.png">
 # 208. The Terminator (1984) - 8.1
 <img height="300" src="208_the_terminator_bar.png">
-# 209. Infernal Affairs (2002) - 8.1
-<img height="300" src="209_infernal_affairs_bar.png">
-# 210. Udaan (2010) - 8.4
-<img height="300" src="210_udaan_bar.png">
+# 209. Udaan (2010) - 8.4
+<img height="300" src="209_udaan_bar.png">
+# 210. Infernal Affairs (2002) - 8.1
+<img height="300" src="210_infernal_affairs_bar.png">
 # 211. Jaws (1975) - 8.1
 <img height="300" src="211_jaws_bar.png">
 # 212. Memories of Murder (2003) - 8.1
@@ -488,10 +488,10 @@
 <img height="300" src="244_before_sunset_bar.png">
 # 245. Underground (1995) - 8.1
 <img height="300" src="245_underground_bar.png">
-# 246. The Hustler (1961) - 8.1
-<img height="300" src="246_the_hustler_bar.png">
-# 247. Solaris (1972) - 8.1
-<img height="300" src="247_solaris_bar.png">
+# 246. Solaris (1972) - 8.1
+<img height="300" src="246_solaris_bar.png">
+# 247. The Hustler (1961) - 8.1
+<img height="300" src="247_the_hustler_bar.png">
 # 248. The Graduate (1967) - 8.0
 <img height="300" src="248_the_graduate_bar.png">
 # 249. Le Samouraï (1967) - 8.1
