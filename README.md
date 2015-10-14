@@ -152,4 +152,4 @@ The scripts used in Color Bars take the movie posters of [IMDb's top movies](htt
     <img height="300" src="samples/129_my_neighbor_totoro_bar.png" hspace="20">
 </section>
 
-To view all 250 color bars, see [color_bars_4](color_bars_4) for k = 4 and [color_bars_8](color_bars_8) for k = 8.
+To view all 250 color bars, see [color_bars_4](color_bars_4#1-the-shawshank-redemption-1994---93) for k = 4 and [color_bars_8](color_bars_8#1-the-shawshank-redemption-1994---93) for k = 8.
