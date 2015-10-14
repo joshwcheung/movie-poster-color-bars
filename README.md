@@ -28,7 +28,7 @@ Color Bars takes the movie posters of [IMDb's top movies](http://www.imdb.com/ch
 		-k CLUSTERS, --clusters CLUSTERS
 							Number of clusters
 							
-# Examples (IMDb Top 10 as of 10/13/15): k = 8
+# Examples (k = 8): 10/13/15 IMDb Top 10
 
 <section>
     <img width="200" height="300" src="samples/1_the_shawshank_redemption.png" hspace="20">
@@ -90,7 +90,7 @@ Color Bars takes the movie posters of [IMDb's top movies](http://www.imdb.com/ch
     <img height="300" src="samples/10_fight_club_bar.png" hspace="20">
 </section>
 
-# More Examples: k = 8
+# More Examples (k = 8)
 
 <section>
     <img width="200" height="300" src="samples/14_inception.png" hspace="20">
@@ -152,4 +152,4 @@ Color Bars takes the movie posters of [IMDb's top movies](http://www.imdb.com/ch
     <img height="300" src="samples/129_my_neighbor_totoro_bar.png" hspace="20">
 </section>
 
-To view all 250 color bars, see [color_bars_4](color_bars_4) and [color_bars_8](color_bars_8).
+To view all 250 color bars, see [color_bars_4](color_bars_4) for k = 4 and [color_bars_8](color_bars_8) for k = 8.
